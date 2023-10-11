@@ -10,6 +10,7 @@ Más sobre mí:
 -👯 Interesado en colaborar en proyectos emocionantes que impulsen la innovación.
 -💬 Si tienes alguna pregunta sobre programación o tecnología, ¡no dudes en preguntar!
 
+
 📫 Puedes contactarme a través de [tu dirección de correo electrónico] ✉️
 GitHub: [Tu perfil de GitHub] Ícono de GitHub
 LinkedIn: [Tu perfil de LinkedIn] Ícono de LinkedIn
